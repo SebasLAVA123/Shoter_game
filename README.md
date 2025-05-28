@@ -1,4 +1,3 @@
-# Shoter_game
 # Pygame Shooter Game
 
 This is a simple vertical scrolling shooter game created using Pygame. The player controls a rocket ship and shoots at falling UFOs, gasoline canisters, and asteroids.
@@ -30,3 +29,12 @@ To run this game, you need to have Pygame installed. If you don't have it, you c
 
 ```bash
 pip install pygame
+Save the provided code as a Python file (e.g., shooter.py) and ensure the image files (galaxy.jpg, gameover.jpg, rocket.png, ufo.png, png-transparent-gasoline-others-miscellaneous-jerrycan-canister-thumbnail-removebg-preview.png, png-transparent-hayabusa2-asteroid-162173-ryugu-space-probe-asteroid-spacecraft-outer-space-nasa-removebg-preview.png, and bullet.png) are in the same directory.
+
+Running the Game
+Navigate to the directory where you saved the file in your terminal and run:
+
+Bash
+
+python shooter.py
+Enjoy playing!
