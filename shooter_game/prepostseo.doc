@@ -1,0 +1,40 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Essay Generator</title></head><body><table style="border-collapse: collapse; width: 100%; height: 271.812px;" border="1"><colgroup><col style="width: 33.3018%;"><col style="width: 33.3018%;"><col style="width: 33.3018%;"></colgroup>
+<tbody>
+<tr style="height: 36.1719px;">
+<td><strong>Objetivos a obtener&nbsp;</strong></td>
+<td><strong>Pasos para alcanzar el objetivo</strong></td>
+<td><strong>Resultado esperado</strong></td>
+</tr>
+<tr style="height: 58.5625px;">
+<td>El contador de puntos sumen los puntos correspondidos</td>
+<td>comprobar si la bala impacta al enemigo se le suma un punto al contador</td>
+<td>Al contador de puntos se le sumara uno punto</td>
+</tr>
+<tr style="height: 58.5625px;">
+<td>El contador de fallos sumen los puntos correspondidos</td>
+<td>comprobar si la bala llega al final de la pantalla se le suma un punto al contador</td>
+<td>Al contador de fallos se le sumara uno punto</td>
+</tr>
+<tr style="height: 36.1719px;">
+<td>La nave debe disparar</td>
+<td>Cuando el usuario presiona&nbsp; el espacio sale una bala</td>
+<td>La nave sacara una bala que se mueva hacia arriba</td>
+</tr>
+<tr style="height: 36.1719px;">
+<td>La nave debe moverse</td>
+<td>al pulsar las teclas A o D deberia moverse hacia la parte izquierda o derecha</td>
+<td>La nave se moveria a la izquierda o derecha</td>
+</tr>
+<tr style="height: 36.1719px;">
+<td>La nave es destruida</td>
+<td>Cuando un enemigo toque la nave saldra la pantalla de derrota</td>
+<td>cuando el enemigo lo toca sale la pantalla</td>
+</tr>
+<tr style="height: 10px;">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p></body></html>
